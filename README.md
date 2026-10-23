@@ -133,4 +133,4 @@ Es un chequeo rápido, no una auditoría completa. Por ahora solo Mac.
 - [Railway urges all users to revoke secret keys — TechCrunch](https://techcrunch.com/2026/10/22/developer-platform-railway-urges-all-users-to-revoke-secret-keys-after-cyberattack/)
 - [The Internet Is Under Attack — Matt Shumer](https://x.com/mattshumer_/status/2113360930876580337)
 
-MIT License · Made by [Mangan / Dibkorma](https://mangomartinez.com)
+MIT License · Made by Dibkorma
